@@ -1,21 +1,24 @@
 # Claim Reporter - Progressive Web App with Angular
 
+This is sample PWA (Progressive Web App) application with Angular 6.
+
 ## Repo info
 * ```claim-reporter-app``` - Angular 6 PWA application (service workers, push notifications enable/send, save photos in localStorage, save API request in cache)
 * ```claim-reporter-server``` - Node.js + Express + in-memory-database (save/get claims, save push subscriber, send notifications to all subscribers)
 
-## Frontend
-Start with Service Workers support:
+## Run frontend 
+In _claim-reporter-app_:
 ```
 npm install
 npm run build
 ```
 
-## Backend
-Server responsible for sending push notifications to users. \
-Go to folder ```claim-reporter-server``` . \
-Start server:
+## Run backend 
+In _claim-reporter-server_:
 ```
 npm install
 npm start
 ```
+
+## License
+This project is released under the Apache 2.0 license (see [LICENSE](LICENSE))
