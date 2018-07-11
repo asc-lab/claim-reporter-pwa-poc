@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+
+  claim-reporter-app:
+    #container_name: claim-reporter-app
+    #image: claim-reporter-app
+    build: claim-reporter-app
+    ports:
+      - "8080:8080"
+
+  claim-reporter-server:
+    #container_name: claim-reporter-server
+    #image: claim-reporter-server
+    build: claim-reporter-server
+    ports:
+      - "9000:9000"
