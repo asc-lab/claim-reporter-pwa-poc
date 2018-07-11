@@ -30,6 +30,12 @@ app.route('/api/claims')
 app.route('/api/claims')
     .get(getAllClaims);
 
+app.route('/api/notifications')
+    .post(addPushSubscriber);
+
+app.route('/api/notifications/enable')
+    .post(sendNotification);
+
 const PORT = 9000;
 const HOST = 'localhost';
 
