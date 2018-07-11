@@ -1,6 +1,9 @@
 # Claim Reporter - Progressive Web App with Angular
 
-This is sample PWA (Progressive Web App) application with Angular 6.
+This is sample PWA (Progressive Web App) application with Angular 6. \
+Check out our blog if you want to learn more:
+- [[ENG] PWAs are back and you should be happy too](https://asc.altkom.pl/blog/pwas-back/)
+
 
 ## Repo info
 * ```claim-reporter-app``` - Angular 6 PWA application (service workers, push notifications enable/send, save photos in localStorage, save API request in cache)
