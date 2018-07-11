@@ -15,6 +15,11 @@ In _claim-reporter-app_:
 npm install
 npm run build
 ```
+**Info:** \
+With `ng serve` Service Workers doesn't work, so if you run this project first time, you must install mini HTTP server:
+```
+npm install -g http-server
+```
 
 ## Run backend 
 In _claim-reporter-server_:
