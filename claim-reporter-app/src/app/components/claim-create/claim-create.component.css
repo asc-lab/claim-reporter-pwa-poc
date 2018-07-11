@@ -1,0 +1,27 @@
+.main-form {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.photo-preview-container {
+  width: 20%;
+  margin: 10px;
+}
+
+.photo-preview {
+  width: 100%;
+}
+
+@media screen and (max-width: 777px) {
+  .main-form {
+    width: 98%;
+  }
+}
+
+.notification-button-section {
+  margin-top: 10px;
+}
+
+.send-notification-button {
+  margin-top: 10px;
+}
