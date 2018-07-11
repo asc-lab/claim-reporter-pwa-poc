@@ -1,0 +1,20 @@
+{
+  "name": "claim-reporter-app",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.4",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "web-push": "^3.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^8.9.5",
+    "ts-node": "~5.0.1",
+    "tslint": "~5.9.1",
+    "typescript": "~2.7.2"
+  }
+}
