@@ -38,5 +38,6 @@ npm start
 <p align="center">
     <img alt="Info about new version" src="https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/new_version.gif" />
 </p>
+
 ## License
 This project is released under the Apache 2.0 license (see [LICENSE](LICENSE))
