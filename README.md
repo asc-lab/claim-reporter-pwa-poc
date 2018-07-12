@@ -29,11 +29,14 @@ npm start
 ```
 
 ## Screens
-
-![Desktop version](https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/desktop_version.png)
-
-![Mobile version](https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/mobile_version.png)
-
-![Info about new version](https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/new_version.gif)
+<p align="center">
+    <img alt="Desktop version" src="https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/desktop_version.png" />
+</p>
+<p align="center">
+    <img alt="Mobile version" src="https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/mobile_version.png" />
+</p>
+<p align="center">
+    <img alt="Info about new version" src="https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/new_version.gif" />
+</p>
 ## License
 This project is released under the Apache 2.0 license (see [LICENSE](LICENSE))
