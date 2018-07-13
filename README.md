@@ -39,5 +39,11 @@ npm start
     <img alt="Info about new version" src="https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/new_version.gif" />
 </p>
 
+## PWA Lighthouse report
+<p align="center">
+    <img alt="PWA Lighthouse report" src="https://raw.githubusercontent.com/asc-lab/claim-reporter/master/images/lighthouse_report.png" />
+</p>
+
+
 ## License
 This project is released under the Apache 2.0 license (see [LICENSE](LICENSE))
