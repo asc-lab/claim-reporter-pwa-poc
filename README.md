@@ -2,8 +2,8 @@
 
 This is sample PWA (Progressive Web App) application with Angular 6. \
 Check out our blog if you want to learn more:
-- [[ENG] PWAs are back and you should be happy too](https://asc.altkom.pl/blog/pwas-back/)
-- [[PL] Tworzenie aplikacji PWA z wykorzystaniem Angular 6](https://asc.altkom.pl/blog/pwa-angular/)
+- [Developing PWA using Angular 7](https://altkomsoftware.pl/en/blog/developing-pwa-using-angular-7/)
+- [PWAs are back and you should be happy too](https://altkomsoftware.pl/blog/pwas-back/)
 
 ## Repo info
 * ```claim-reporter-app``` - Angular 6 PWA application (service workers, push notifications enable/send, save photos in localStorage, save API request in cache)
